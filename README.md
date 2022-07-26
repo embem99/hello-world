@@ -1,3 +1,3 @@
 # hello-world
 Training/Test
-inserting sample test here. 
+inserting sample text here. 
